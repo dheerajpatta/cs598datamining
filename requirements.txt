@@ -1,1 +1,1 @@
-pip install nltk
+py -m pip install nltk
