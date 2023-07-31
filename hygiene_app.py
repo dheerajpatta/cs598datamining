@@ -1,4 +1,4 @@
-pip install nltk
+# !pip install nltk
 import nltk as nltk
 nltk.download('vader_lexicon')
 import streamlit as st
